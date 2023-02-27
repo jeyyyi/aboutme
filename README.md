@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @jeyyyi, or "Ed"
-- 👀 I’m interested in Test Engineering and Data Engineering
-- 🌱 I’m currently learning:
-  1. Selenium Webdriver / IDE 
-  2. JavaScript  
-  3. Python
+- 👀 I’m a Data Engineer and Data Analyst
 - 📫 You can reach me: edrickallas@gmail.com
 
 <!---
